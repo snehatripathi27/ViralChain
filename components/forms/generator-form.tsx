@@ -35,8 +35,8 @@ const defaultPrompt = "Give me viral Instagram reel ideas about Solana meme coin
 const promptIdeas = [
   {
     id: "bitcoin-etf",
-    label: "Bitcoin ETF momentum",
-    prompt: "Find content ideas around Bitcoin ETF momentum for first-time crypto viewers.",
+     label: "Crypto Market Shift",
+  prompt: "Generate content ideas about how Bitcoin ETFs are changing the relationship between traditional finance and crypto.",
     meta: "Beginner friendly hooks"
   },
   {
